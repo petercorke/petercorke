@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Peter, I'm a robotics educator and researcher.
+
+- I'm currently working on a bunch of packages for robotics, machine vision and block diagram simulation.
+
+![Peter Corke's GitHub stats](https://github-readme-stats.vercel.app/api?username=petercorke&show_icons=true)
