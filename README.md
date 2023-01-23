@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petercorke&repo=github-readme-stats)](https://github.com/petercorke/github-readme-stats)
+-->
 
 I'm Peter, I'm a robotics educator and researcher.
 
